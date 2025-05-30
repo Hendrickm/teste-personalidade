@@ -98,12 +98,23 @@ O teste DISC avalia quatro estilos comportamentais principais: Dominância (D), 
 
 Este perfil indica que você é uma pessoa equilibrada, que se adapta para manter relações harmoniosas, mas não hesita em assumir o controle quando necessário para garantir que as coisas sejam feitas corretamente.
 
-### 📊 Comparativo Resumido: ISTJ × SCARF × DISC  
+---
+# Perfil de Personalidade – O Inspetor
 
-| **Dimensão**       | **ISTJ (O Prático)**          | **SCARF**       | **DISC (S/CD)**              |  
-|--------------------|-------------------------------|-------------------------------|-------------------------------|  
-| **Estilo**         | Metódico, leal, estruturado   | Alta **Certeza (6.3)** e **Equidade (6.5)** | Equilíbrio **Suporte + Cautela** (ação quando necessário) |  
-| **Forças**         | Organização, confiabilidade, dever | Previsibilidade, justiça      | Harmonia, precisão, resolução prática |  
-| **Desafios**       | Rigidez, reserva emocional    | Baixa Autonomia (3.0)     | Dificuldade em priorizar autonomia sobre regras |  
-| **Tomada de Decisão** | Baseada em regras e tradição | Prefere diretrizes claras     | Cauteloso, mas decisivo sob pressão |  
-| **Relacionamentos** | Lealdade (ações > emoções)    | Relacionamento moderado (4.0)   | Evita conflitos, protege sentimentos alheios |  
+
+## Visão Geral
+
+- Personalidade voltada para a **análise minuciosa** e **verificação de conformidade**
+- Atitude **séria, discreta** e **dedicada ao trabalho**
+- Preferência por atuar **nos bastidores**, longe de conflitos
+- Dificuldade em ser reconhecido devido à natureza discreta do seu trabalho
+
+
+## Características Pessoais
+
+- Extremamente **confiável**, decidido e firme
+- Forte **senso de dever** e respeito à autoridade
+- **Guardião das instituições** e dos padrões tradicionais
+- Valorização por **ordem, rotina e previsibilidade**
+- Reservado, mas pode se soltar em ambientes só com amigos próximos
+- Dificuldade com demonstrações emocionais ou comportamentos fora do padrão
