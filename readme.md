@@ -99,10 +99,10 @@ O teste DISC avalia quatro estilos comportamentais principais: Dominância (D), 
 Este perfil indica que você é uma pessoa equilibrada, que se adapta para manter relações harmoniosas, mas não hesita em assumir o controle quando necessário para garantir que as coisas sejam feitas corretamente.
 
 ---
-# Perfil de Personalidade – O Inspetor
+## 🧠 Perfil de Personalidade – O Inspetor
 
 
-## Visão Geral
+### Visão Geral
 
 - Personalidade voltada para a **análise minuciosa** e **verificação de conformidade**
 - Atitude **séria, discreta** e **dedicada ao trabalho**
@@ -110,7 +110,7 @@ Este perfil indica que você é uma pessoa equilibrada, que se adapta para mante
 - Dificuldade em ser reconhecido devido à natureza discreta do seu trabalho
 
 
-## Características Pessoais
+### Características Pessoais
 
 - Extremamente **confiável**, decidido e firme
 - Forte **senso de dever** e respeito à autoridade
